@@ -9,4 +9,5 @@ urlpatterns = [
     path('submit_flag', views.submit_flag, name='submit_flag'),
     path('signup', views.signup, name='signup'),
     path('teamcreation', views.teamcreation, name='teamcreation'),
+
 ]
